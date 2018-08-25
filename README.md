@@ -22,7 +22,7 @@ At first you should creat some folders at the same level as the file "convolutio
 --- saver: save the model of autoencoder  
 --- background: save the predicted backgrounds  
 
-The following images show the result of AE. The first image is the input image.   
+The following images show the result of AE in Tensorflow. The first image is the input image.   
 ![Original_Image](https://github.com/klickmal/autoencoder_for_background_extraction/blob/master/result/original.jpg)   
 The second image is the predicted background.  
 ![Background_Image](https://github.com/klickmal/autoencoder_for_background_extraction/blob/master/result/bg.jpg)    
