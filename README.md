@@ -1,5 +1,13 @@
-# autoencoder_for_background_extraction using Tensorflow
-Background extraction is an import step for background subtraction. This small project shows how to model background using convolutional autoencoder. The principle is that we treat the foreground of images as noises and use autoencoder to rebuild the missing informations.   
+# autoencoder_for_background_extraction using Tensorflow and Keras
+Background extraction is an import step for background subtraction. This small project shows how to model background using convolutional autoencoder. The principle is that we treat the foreground of images as noises and use autoencoder to rebuild the missing informations.  
+
+#################################################################################################################
+Autoencoder in Keras
+#################################################################################################################
+
+#################################################################################################################
+Autoencoder in Tensorflow
+#################################################################################################################
 The codes base on the project[1] which provides pure tensorflow code to build a convolutional autoencoder. Here the ssim index [2] is used as the loss function. The tensorflow code of ssim can be found in [3]. 
 
 At first you should creat some folders at the same level as the file "convolutional_autoencoder.py":  
