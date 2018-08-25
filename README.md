@@ -7,8 +7,9 @@ Autoencoder in Keras
 Create some folders at the same level as the file "Autoencoder.py" before running it  
 --- train_image: this folder for the training images. Here 200 images were used for training autoencoder. The dataset can be found in changedetection.net [4].  
 --- test_image: this folder for the testing images   
---- save_img: save the predicted backgrounds
+--- save_img: save the predicted backgrounds  
 --- model_save: save the model of autoencoder  
+  
 ###################################################################################  
 Autoencoder in Tensorflow
 ###################################################################################  
